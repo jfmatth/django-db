@@ -1,0 +1,1 @@
+wsgi: sampe.wsgi:application
