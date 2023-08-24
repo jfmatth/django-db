@@ -1,1 +1,1 @@
-wsgi: sampe.wsgi:application
+wsgi: sample.wsgi:application
